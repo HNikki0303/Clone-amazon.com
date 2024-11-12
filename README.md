@@ -25,7 +25,7 @@ This project is a clone of the Amazon homepage designed using **HTML** and **CSS
 - Add interactivity such as product carousels, modals, and a shopping cart.
 
 ## Link to Project:
-You can access the deployed project on **GitHub Pages** [](Insert your GitHub Pages URL).
+You can access the deployed project on **GitHub Pages** live via this link [https://hnikki0303.github.io/Clone-amazon.com/].
 
 ## Project Setup:
 1. Clone this repository to your local machine.
