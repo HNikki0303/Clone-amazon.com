@@ -19,7 +19,7 @@ This project is a simple Amazon clone built using **HTML** and **CSS**. It repli
 2. Open the `index.html` file in a browser to view the page.
 
 ## Demo:
-You can check out a live demo of this project [here](https://your-demo-link.com) (Optional if deployed).
+You can check out a live demo of this project [here](https://hnikki0303.github.io/Clone-amazon.com/)
 
 ## Future Enhancements:
 - Implement **media queries** for responsiveness.
